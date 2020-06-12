@@ -53,7 +53,7 @@ His core teaching is
 
 // Hadiths
 => There are 7 popular hadiths that details Muhammad's life:
-1) Muhammad al-Bukhari
+1) Sahih al-Bukhari
 2) Muslim ibn al-Hajjaj
 3) Muhammad ibn Isa at-Trimidhi
 4) Abu Dawood
